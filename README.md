@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **Isabel Roig Penso** and I am a UCLA graduate with a major in Statistics and a minor in Digital Humanities. I have knowledge of statistical analysis, predictive modeling, machine learning, neural networks and data mining. Using programming languages such as C++, R, SQL, Python, MATLAB, and tools such as Tableau and Power BI, I develop analytical projects that bring me better insight into different industries and business needs. For the last year, I have worked as a Data Analyst at The Oncology Insitute of Hope and Innovation and before that, I worked in a machine learning research lab and was promoted to manage 5 direct reports as well as lead multiple teams from Harvard University, Michigan University and Florida State University. 
+
+I am very passionate to keep working on different analytical projects that might help bring insight into different industries and fields.
